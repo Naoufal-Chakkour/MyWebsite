@@ -603,12 +603,15 @@ footer{
         margin-top: -5em;
        
     }
+    .child{
+    display:inline-block;
+    width:100%;
+    }
     .box1{
     min-height: fit-content;
-    min-width: fit-content;
-    }
-    #services{
-    display: block;
+    text-align: center;
+    width: fit-content;
+    margin: 30px 20px;
     }
     .bottom{
        display: flex;
