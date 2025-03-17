@@ -446,6 +446,7 @@ footer{
     }
     .box1{
         max-height: fit-content;
+        width: 40%;
     }
 
 }
