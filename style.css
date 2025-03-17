@@ -636,6 +636,7 @@ footer{
         margin-right:0;
         max-width:100%;
         padding:100px 50px;
+        border: 1px solid red;
     }
  
     .space{
