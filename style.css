@@ -444,6 +444,9 @@ footer{
         align-items: center;
         width: 100%;
     }
+    .box1{
+        max-height: fit-content;
+    }
 
 }
 @media (max-width:900px){
@@ -501,7 +504,7 @@ footer{
     }
     
     .box1{
-        height: auto;
+        max-height: fit-content;
         width: 23%;
         margin: 20px;
         padding: 20px 10px;
