@@ -631,6 +631,12 @@ footer{
         margin-bottom: 15px;
         font-size: 20px;
     }
+    .hamada{
+        display:block;
+        margin-right:0;
+        max-width:100%;
+        padding:100px 50px;
+    }
  
     .space{
         margin-top: 30px;
