@@ -607,6 +607,9 @@ footer{
     min-height: fit-content;
     min-width: fit-content;
     }
+    #services{
+    display: block;
+    }
     .bottom{
        display: flex;
    
