@@ -300,7 +300,7 @@ ul li a:hover{
 
 }
 .box1{
-    height: 30vh;
+    max-height: fit-content;
     text-align: center;
     width: 23%;
     margin: 20px;
