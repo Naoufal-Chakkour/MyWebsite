@@ -603,6 +603,10 @@ footer{
         margin-top: -5em;
        
     }
+    .box1{
+    min-height: fit-content;
+    min-width: fit-content;
+    }
     .bottom{
        display: flex;
    
